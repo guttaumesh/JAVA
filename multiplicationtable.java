@@ -2,7 +2,7 @@
 table of a given number. Ask the user for the number and print the table from 1 to 10.*/
 
 import java.util.*;
-class add
+class multiplicationtable
  {
     public static void main(String[] args)
     {
