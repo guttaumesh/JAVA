@@ -1,6 +1,6 @@
 //import java.io.*;
 import java.util.Scanner;
-class Name
+class name
 {
 public static void main (String a[])
 {
