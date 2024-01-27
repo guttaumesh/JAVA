@@ -27,7 +27,7 @@ d=x;
 System.out.println("String"+ d);
 }
 };
-class Number 
+class number 
 {
 public static void main(String a[])
 {
