@@ -19,7 +19,7 @@ area = l*b;
 System.out.println("area of rectangle:"+area);
 }
 }
-class Area
+class area
 {
 public static void main(String a[])
 {
